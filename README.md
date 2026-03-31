@@ -1,3 +1,6 @@
+## 🔍 Project Type
+Product Analytics | Causal Inference | Experimentation
+
 # Causal Impact of Recommendation Algorithms on User Engagement
 
 ## Overview
