@@ -28,3 +28,7 @@ If validated with real-world data, this could:
 - Drive long-term user retention  
 
 These insights support data-driven product decisions around personalization strategies.
+
+## Visualization
+
+![Watch Time Comparison](watch_time_comparison.png)
